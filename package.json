@@ -1,6 +1,6 @@
 {
   "name": "ephraim-slider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a sleek and fully customizable React Native slider designed for smooth and intuitive user interaction. It features a modern aesthetic with a minimalistic design, soft animations, and responsive touch gestures. The slider includes a circular or rectangular thumb with a subtle shadow effect for better visibility, along with a progress track that adapts dynamically to user interactions.",
   "main": "index.js",
   "scripts": {
