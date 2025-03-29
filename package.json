@@ -30,7 +30,13 @@
     "smooth slider"
   ],
   "author": "Ephraim Senior Dev",
-  "license": "ISC",
+  "license": "CC-BY-NC-4.0",
+  "files": [
+    "index.js",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
   "bugs": {
     "url": "https://github.com/Ephraim5/ephraim-slider/issues"
   },
