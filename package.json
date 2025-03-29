@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Ephraim5/ephraim-slider.git"
   },
+  "logo": "https://raw.githubusercontent.com/Ephraim5/ephraim-slider/main/assets/logo.png",
   "keywords": [
     "Ephraim",
     "Slider",
