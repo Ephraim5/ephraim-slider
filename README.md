@@ -199,6 +199,8 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 For questions, issues, or feature requests, open an [issue](https://github.com/devtar/ephraim-slider/issues) or contact me at **[ahitubephriam5@gmail.com/ https://gravatar.com/ahitubephriam5]**.  
 
+___
+**CONTACT NUMBER:+2349168033116**
 ---
 ![Ephraim](https://github.com/user-attachments/assets/6b527bf5-5c44-43c5-ab52-46c7043a4ab4)
 
